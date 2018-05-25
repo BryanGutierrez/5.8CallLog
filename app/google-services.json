@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "983310480791",
+    "firebase_url": "https://calllogprovider.firebaseio.com",
+    "project_id": "calllogprovider",
+    "storage_bucket": "calllogprovider.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983310480791:android:eafb0617e9018855",
+        "android_client_info": {
+          "package_name": "com.example.bryan.calllogprovider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983310480791-cdjl7ht5c9l2tfe5ujnp6ientn8lhk70.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bryan.calllogprovider",
+            "certificate_hash": "1d1ac443b7d04850ae2e7022006c3cc2d3292aaf"
+          }
+        },
+        {
+          "client_id": "983310480791-rgrfvmhh3v7jghv4nn6pr3jmhkdjd7g7.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "983310480791-rgrfvmhh3v7jghv4nn6pr3jmhkdjd7g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBczTfBUu8He21nJG57qeNs0cgdyVe6QR8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983310480791-rgrfvmhh3v7jghv4nn6pr3jmhkdjd7g7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
